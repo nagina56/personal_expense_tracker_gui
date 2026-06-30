@@ -1,0 +1,65 @@
+[
+    {
+        "type": "expense",
+        "category": "Food",
+        "amount": 500.0,
+        "note": "Lunch",
+        "date": "2026-06-30"
+    },
+    {
+        "type": "income",
+        "category": "Salary",
+        "amount": 50000.0,
+        "note": "Monthly Salary",
+        "date": "2026-06-30"
+    },
+    {
+        "type": "expense",
+        "category": "Transport",
+        "amount": 300.0,
+        "note": "Bus Fare",
+        "date": "2026-06-30"
+    },
+    {
+        "type": "expense",
+        "category": "Shopping",
+        "amount": 2500.0,
+        "note": "Clothes",
+        "date": "2026-06-30"
+    },
+    {
+        "type": "income",
+        "category": "Freelancing",
+        "amount": 15000.0,
+        "note": "Web Project",
+        "date": "2026-06-30"
+    },
+    {
+        "type": "expense",
+        "category": "Electricity",
+        "amount": 4500.0,
+        "note": "Feb Bill",
+        "date": "2026-06-30"
+    },
+    {
+        "type": "income",
+        "category": "Bonus",
+        "amount": 10000.0,
+        "note": "Performance Bonus",
+        "date": "2026-06-30"
+    },
+    {
+        "type": "expense",
+        "category": "Medical",
+        "amount": 1800.0,
+        "note": "Medicine",
+        "date": "2026-06-30"
+    },
+    {
+        "type": "expense",
+        "category": "Grocery",
+        "amount": 6000.0,
+        "note": "Monthly Groceries",
+        "date": "2026-06-30"
+    }
+]
