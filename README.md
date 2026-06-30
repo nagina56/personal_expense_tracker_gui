@@ -24,8 +24,11 @@ Personal Expense Tracker is a desktop application developed using Python and Tki
 ## Project Structure
 
 Personal Expense Tracker/
+
 │── main.py
+
 │── expenses_data.json
+
 │── README.md
 
 
